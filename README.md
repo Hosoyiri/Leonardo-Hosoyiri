@@ -17,17 +17,17 @@ Computer Systems Analysis and Development student with plans to continue my educ
 - Python
 - Databases
 
-🚀 Objetivos
-- Conseguir estágio em desenvolvimento de software
-- Evoluir meu inglês
-- Trabalhar em empresas multinacionais
-- Construir carreira internacional na área de tecnologia
+🚀 Objetivos de Carreira
+- Iniciar minha carreira em desenvolvimento de software
+- Melhorar continuamente minhas habilidades técnicas e de comunicação
+- Adquirir experiência profissional na área de tecnologia
+- Construir uma carreira internacional na área de tecnologia
 
 🚀 Career Goals
-- Start my career through a software development internship
-- Continuously improve my English communication skills
-- Gain experience in multinational companies
-- Build an international career in the technology industry
+- Start my career in software development
+- Continuously improve my technical and communication skills
+- Gain professional experience in the technology industry
+- Build an international career in technology
  
 ## Tecnologias | Technologies
 
